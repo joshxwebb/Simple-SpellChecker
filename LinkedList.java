@@ -1,6 +1,6 @@
 /**
  * class to represent a linked list with a reference to the head and tail node
- * @author joshwebbmacbook
+ * @author Josh Webb
  *
  */
 public class LinkedList {
