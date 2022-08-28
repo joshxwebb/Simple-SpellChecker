@@ -1,7 +1,7 @@
 /**
  * class to represent a Node with data as an String and a reference
  * to next Node
- * @author joshwebbmacbook
+ * @author Josh Webb
  *
  */
 public class Node {
